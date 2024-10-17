@@ -1,5 +1,11 @@
 # viem
 
+## 2.21.29
+
+### Patch Changes
+
+- [#2876](https://github.com/wevm/viem/pull/2876) [`3759bee5c0df3e90f9e2a9cc89da707502370dbd`](https://github.com/wevm/viem/commit/3759bee5c0df3e90f9e2a9cc89da707502370dbd) Thanks [@m1guelpf](https://github.com/m1guelpf)! - Added `Content-Type` header to CCIP `POST` requests.
+
 ## 2.21.28
 
 ### Patch Changes
